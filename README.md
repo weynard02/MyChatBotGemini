@@ -20,5 +20,8 @@ MyChatbot is an Android application built with Jetpack Compose that provides a c
 *   **Firebase:** A platform developed by Google for creating mobile and web applications.
 *   **Compose Markdown Text:** A library for rendering Markdown text in Jetpack Compose.
 
+## Pre-requisites
+* `google-services.json` from Firebase.
+
 <img width="1469" height="3104" alt="image" src="https://github.com/user-attachments/assets/47c3b22e-d51e-40ce-a8c1-175fdd36d4b9" />
 
